@@ -1,4 +1,4 @@
-## Olá eu sou Ângelo Ruan, Programador Front-End, Back-End e Me aventuro na Cyber Segurança!
+## Olá Me Ângelo Ruan, Sou Programador Front-End, Back-End e Me aventuro na Cyber Segurança!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
